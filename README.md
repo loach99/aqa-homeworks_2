@@ -1,1 +1,1 @@
-[![Java CI with Gradle](https://github.com/Alekseev007/selenide/actions/workflows/gradle-publish.yml/badge.svg)](https://github.com/Alekseev007/selenide/actions/workflows/gradle-publish.yml)
+[![Java CI with Gradle](https://github.com/loach99/aqa-homeworks_2/actions/workflows/gradle-publish.yml/badge.svg)](https://github.com/loach99/aqa-homeworks_2/actions/workflows/gradle-publish.yml)
